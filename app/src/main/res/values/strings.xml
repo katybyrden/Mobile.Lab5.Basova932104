@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="проекты">Последние проекты</string>
+    <string name="регистрация">Регистрация</string>
+    <string name="шаблон">Шаблон</string>
+    <string name="открытьизо">Открыть изображение</string>
+    <string name="холстпустой">Пустой холст</string>
+    <string name="open_my_proects">open my proects</string>
+    <string name="home">home</string>
+    <string name="начать">Начать</string>
+    <string name="изображения">Изображения</string>
 </resources>
